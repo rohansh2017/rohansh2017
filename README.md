@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=30&center=true&vCenter=true&width=700&height=50&color=3B82F6&duration=3500&lines=Hi%2C+I'm+Rohan+Sharma+👋;CS+%2B+Cognitive+Science+%40+Rutgers+'27;I+build+LLM+agents+and+full-stack+software;NASA+Space+Apps+NYC+2026+winner+🏆;Open+to+new-grad+SWE+%2F+AI+roles+in+NYC" alt="Hi, I'm Rohan Sharma" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=30&center=true&vCenter=true&width=700&height=50&color=3B82F6&duration=3500&lines=Hi%2C+I%27m+Rohan+Sharma;CS+%2B+Cognitive+Science+%40+Rutgers+%2727;I+build+LLM+agents+and+full-stack+software;NASA+Space+Apps+NYC+2026+winner;Open+to+new-grad+SWE+%2F+AI+roles+in+NYC" alt="Hi, I'm Rohan Sharma" />
 </h1>
 
 <h3 align="center">Software Engineer · AI/ML · CS + Cognitive Science @ Rutgers</h3>
