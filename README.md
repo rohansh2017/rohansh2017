@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohansh2017/"><img src="https://img.shields.io/badge/LinkedIn-rohansh2017-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rohansh2017@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://tranquility-base.rohansh2017.workers.dev"><img src="https://img.shields.io/badge/Live%20Demo-Tranquility%20Base-111827?style=for-the-badge&logo=nasa&logoColor=white" alt="Tranquility Base live demo" /></a>
 </p>
 
